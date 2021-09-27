@@ -4,4 +4,4 @@ Reliability is the number one priority in every project I participate, which I a
 At my day job I use Go and Python for network automation tasks.
 - 🌱 I've got into blockchain space in 2020 and currently maintaining multiple nodes for various networks such as Solana, XX network and Oasis.
 - 💞️ I’m looking to collaborate on blockchain projects as a validator.
-- 📫 You can reach me on sugrimov@gmail.com
+- 📫 You can reach me on info@spectrumstaking.net
